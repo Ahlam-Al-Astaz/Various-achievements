@@ -8,10 +8,11 @@ A curated collection of my diverse certificates, courses, and personal accomplis
 
 * **English Language Course**
   * *Description:* Developed professional and communication language skills.
+  * *Certificate:* [View English Certificate](./English1.pdf)
+
 * **Football Course**
   * *Description:* Enhanced tactical understanding, teamwork, and athletic skills.
-* **Technical & Database Certifications**
-  * *Description:* Completed foundational courses in databases, SQL, and programming.
+  * *Certificate:* [View Football Certificate](./%D9%83%D8%B1%D8%A9%20%D8%A7%D9%84%D9%82%D8%AF%D9%85.jpeg) 
 
 ---
 
